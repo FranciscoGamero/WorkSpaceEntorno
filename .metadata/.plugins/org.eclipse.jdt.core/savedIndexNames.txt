@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\gamero.rofra24_trian\Desktop\DAM\Entornos de Desarrollo\Workspace2 (prueba de entorno)\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
