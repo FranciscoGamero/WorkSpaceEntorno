@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+C:\Users\gamero.rofra24_trian\Desktop\DAM\Entornos de Desarrollo\Workspace2 (prueba de entorno)\.metadata\.plugins\org.eclipse.jdt.core
 2117517830.index
 3413725848.index
+=======
+INDEX VERSION 1.134+C:\Users\sevil\Desktop\Grado\Entorno\WorkSpaceEntorno\.metadata\.plugins\org.eclipse.jdt.core
+>>>>>>> b4d7ca58725bcbbe57bcf24e5c20d503a5a9d078
 1865797976.index
-3245565862.index
 3251249088.index
